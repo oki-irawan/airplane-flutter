@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>139430654860-6lk1ci6gru4jr2tc2n96erl3bsqh8osn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.139430654860-6lk1ci6gru4jr2tc2n96erl3bsqh8osn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCKYJboSk1N9tvwqG7n9hCOlBovPBo-tFs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>139430654860</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.okiirawan.airplane</string>
+	<key>PROJECT_ID</key>
+	<string>airplane-bwa-54894</string>
+	<key>STORAGE_BUCKET</key>
+	<string>airplane-bwa-54894.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:139430654860:ios:9a21973ec3f1d73c9f5ca9</string>
+</dict>
+</plist>

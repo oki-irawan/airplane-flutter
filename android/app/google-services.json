@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139430654860",
+    "project_id": "airplane-bwa-54894",
+    "storage_bucket": "airplane-bwa-54894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139430654860:android:978fa668f109cc9e9f5ca9",
+        "android_client_info": {
+          "package_name": "com.irawanoki.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139430654860-f7sb97hrqve1k9j2jt9hpejkp1pam02k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKvJFVxATUQ73DFK_uCHHDSABq9W3QJQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139430654860-f7sb97hrqve1k9j2jt9hpejkp1pam02k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
